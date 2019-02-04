@@ -1,0 +1,12 @@
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\obj\Debug\MyUELLoyalty.Core.csproj.CoreCompileInputs.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\obj\Debug\MyUELLoyalty.Core.csprojAssemblyReference.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\MyUELLoyalty.Core.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\MyUELLoyalty.Core.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\MyUELLoyalty.Model.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\MyUELLoyalty.Model.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\obj\Debug\MyUELLoyalty.Core.csproj.CopyComplete
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\obj\Debug\MyUELLoyalty.Core.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\obj\Debug\MyUELLoyalty.Core.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\Newtonsoft.Json.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Core\bin\Debug\Newtonsoft.Json.xml

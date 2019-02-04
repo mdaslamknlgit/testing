@@ -1,0 +1,10 @@
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\bin\Debug\MyUELLoyalty.Scheduler.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\bin\Debug\MyUELLoyalty.Scheduler.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\obj\Debug\MyUELLoyalty.Scheduler.csprojAssemblyReference.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\obj\Debug\MyUELLoyalty.Scheduler.csproj.CoreCompileInputs.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\obj\Debug\MyUELLoyalty.Scheduler.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\obj\Debug\MyUELLoyalty.Scheduler.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\bin\Debug\Newtonsoft.Json.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\bin\Debug\Newtonsoft.Json.xml
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.Scheduler\obj\Debug\MyUELLoyalty.Scheduler.csproj.CopyComplete

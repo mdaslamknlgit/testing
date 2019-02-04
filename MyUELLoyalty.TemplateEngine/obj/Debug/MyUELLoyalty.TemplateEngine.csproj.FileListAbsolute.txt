@@ -1,0 +1,13 @@
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\MyUELLoyalty.TemplateEngine.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\MyUELLoyalty.TemplateEngine.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\obj\Debug\MyUELLoyalty.TemplateEngine.csprojAssemblyReference.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\obj\Debug\MyUELLoyalty.TemplateEngine.csproj.CoreCompileInputs.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\obj\Debug\MyUELLoyalty.TemplateEngine.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\obj\Debug\MyUELLoyalty.TemplateEngine.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\mustache-sharp.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\MyUELLoyalty.Model.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\MyUELLoyalty.Model.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\Newtonsoft.Json.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\bin\Debug\Newtonsoft.Json.xml
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.TemplateEngine\obj\Debug\MyUELLoyalty.TemplateEngine.csproj.CopyComplete

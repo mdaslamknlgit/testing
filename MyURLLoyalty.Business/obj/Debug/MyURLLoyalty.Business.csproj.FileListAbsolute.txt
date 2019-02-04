@@ -1,0 +1,15 @@
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyURLLoyalty.Business.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyURLLoyalty.Business.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyUELLoyalty.DbService.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyUELLoyalty.Model.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyUELLoyalty.Core.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\Dapper.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyUELLoyalty.DbService.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyUELLoyalty.Model.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\MyUELLoyalty.Core.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\bin\Debug\Dapper.xml
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\obj\Debug\MyURLLoyalty.Business.csprojAssemblyReference.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\obj\Debug\MyURLLoyalty.Business.csproj.CoreCompileInputs.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\obj\Debug\MyURLLoyalty.Business.csproj.CopyComplete
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\obj\Debug\MyURLLoyalty.Business.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyURLLoyalty.Business\obj\Debug\MyURLLoyalty.Business.pdb

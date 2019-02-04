@@ -1,0 +1,16 @@
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\MyUELLoyalty.DbService.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\MyUELLoyalty.DbService.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\Newtonsoft.Json.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\Newtonsoft.Json.xml
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\obj\Debug\MyUELLoyalty.DbService.csprojAssemblyReference.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\obj\Debug\MyUELLoyalty.DbService.csproj.CoreCompileInputs.cache
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\obj\Debug\MyUELLoyalty.DbService.csproj.CopyComplete
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\obj\Debug\MyUELLoyalty.DbService.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\obj\Debug\MyUELLoyalty.DbService.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\Dapper.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\MyUELLoyalty.Core.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\MyUELLoyalty.Model.dll
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\MyUELLoyalty.Core.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\MyUELLoyalty.Model.pdb
+D:\MyProjects\MyUELLoyaltyProgram\Src\MyUELLoyalty.DbService\bin\Debug\Dapper.xml
