@@ -1,4 +1,4 @@
-﻿using MyUELLoyalty.API.Base;
+using MyUELLoyalty.API.Base;
 using MyUELLoyalty.Model;
 using MyURLLoyalty.Business.Interface;
 using System;
@@ -16,13 +16,14 @@ namespace MyUELLoyalty.API.Controllers
 {
     public class RegisterController : AnanomyousBase
     {
-        //private readonly IEmailsBusiness m_IEmailsBusiness;
-        //private readonly IRegisterBusiness m_RegisterBusiness;
-        //private readonly ICardDetailsBusiness m_ICardDetailsBusiness;
-        //private readonly IPaymentDetailsBusiness m_paymentDetailsBusiness;
-        //private readonly ISetupProcessBusiness m_ISetupProcessBusiness;
-        //private readonly IPurchaseUsersBusiness m_IPurchaseUsersBusiness;
-        private readonly UserInfo MyUserInfo = new UserInfo();
+    //Added on 04-02-2018
+    //private readonly IEmailsBusiness m_IEmailsBusiness;
+    //private readonly IRegisterBusiness m_RegisterBusiness;
+    //private readonly ICardDetailsBusiness m_ICardDetailsBusiness;
+    //private readonly IPaymentDetailsBusiness m_paymentDetailsBusiness;
+    //private readonly ISetupProcessBusiness m_ISetupProcessBusiness;
+    //private readonly IPurchaseUsersBusiness m_IPurchaseUsersBusiness;
+    private readonly UserInfo MyUserInfo = new UserInfo();
 
         private readonly IRegisterBusiness m_IRegisterBusiness;
 
